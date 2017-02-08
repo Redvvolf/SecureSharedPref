@@ -20,3 +20,7 @@ android:
       - 'google-gdk-license-.+'
 sudo:
   false
+cache:
+  directories:
+    - $HOME/.m2
+    - $HOME/.gradle

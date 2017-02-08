@@ -1,7 +1,7 @@
 # SecureSharedPref
 [![Build Status](https://travis-ci.org/Redvvolf/SecureSharedPref.svg?branch=master)](https://travis-ci.org/Redvvolf/SecureSharedPref)
 
-## This library store data as secured. Very easy to implement your project.
+## This library store data as secured. Very easy implementation to your project.
 
 First of all, create own crypto algorithm for what do you need.
 ```java
